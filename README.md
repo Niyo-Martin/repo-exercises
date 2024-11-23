@@ -1,2 +1,2 @@
 # repo-exercises
-practice for coursera coursr
+practice for coursera course
